@@ -1,0 +1,1 @@
+Verifique se a conexão certa está ligada ao localhost e se o teu mysqli e não pode ter palavras-passe. 
