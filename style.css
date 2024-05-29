@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+main
+{
+    margin: auto;
+    margin-top: 100px;
+    background-color: aqua;
+    width: 400px;
+
+}
+body
+{
+    background-color: blue;
+}
